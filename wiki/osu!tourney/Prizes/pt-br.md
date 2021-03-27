@@ -18,6 +18,7 @@ Nós poderemos providenciar medalhas para os **vencedores** de torneios comunit�
 - O torneio é executado quatro ou menos vezes por ano (sazonal).
 - A lista de jogadores em tal torneio foi revisada pela Equipe de Suporte e certificada de ser livre de jogadores suspeitos.
 - O torneio não é "self-reffed". Isso significa que um juiz deve estar presente em todas as partidas.
+
 **¹**: Membros "experientes" são vagamente definidos como pessoas que contruibuíram significativamente para a execução bem-sucedida de ao menos **três** torneios que haviam premiados medalhas, ou foram uma parte da equipe da osu! World Cup.
 
 Em alguns casos, a equipe osu! pode premiar medalhas de perfil para primeira, segunda, e terceira colocação para torneios de larga escala (ex. Corsace Open). Cada caso irá ser considerado individualmente.
